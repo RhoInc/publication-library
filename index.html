@@ -25,9 +25,10 @@
   </div>
 </div>
 </body>
-<script src='./src/PublicationMetadata.js'></script>
-<script src='./src/buildPubList.js'></script>
+<script src='./buildPubList.js'></script>
 <script>
+d3.json("publicationMetadata.json", function(error, publications) {
   buildPubList(publications,".pubs")
+})
 </script>
 </html>

@@ -23,14 +23,14 @@ function buildPubList(meta, parentElement) {
   //description
   wraps
     .append("p")
-    .attr("class", "description")
-    .text(d => d.text);
+    .attr("class", "reference")
+    .text(d => d.reference);
 
   //author
   wraps
     .append("p")
     .attr("class", "author")
-    .text(d => d.keyValues[0].value);
+    .text(d => d.authors);
 
   //tags
   function cap1(string) {
