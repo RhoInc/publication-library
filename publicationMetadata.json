@@ -1,5 +1,113 @@
 [
   {
+    "title": "Interactive Monitoring of Hepatotoxicity",
+    "thumbnail": "RStudioConf2019_Wildfire.png",
+    "reference": "PhUSE Connect. February 2019 in Baltimore, Md",
+    "authors": "Susan Duke, Jeremy Wildfire, Jim Buchanan",
+    "links": [
+      {
+        "href": "PhUSE2019_Duke.pdf",
+        "type": "paper"
+      },
+      {
+        "href": "PhUSE2019_Duke_Slides.pdf",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/safetygraphics/safetygraphics",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "Make GitHub Your Web-based Version-controlled Code Repository",
+    "thumbnail": "PhUSE2019_Childress.png",
+    "reference": "PhUSE Connect. February 2019 in Baltimore, Md",
+    "authors": "Spencer Childress, Shane Rosanbalm",
+    "links": [
+      {
+        "href": "PhUSE2019_Childress.pdf",
+        "type": "paper"
+      },
+      {
+        "href": "PhUSE2019_Childress_Slides.pdf",
+        "type": "slides"
+      }
+    ]
+  },
+  {
+    "title": "Modernizing the Clinical Trial Analysis Pipeline with R and JavaScript",
+    "thumbnail": "RStudioConf2019_Wildfire.png",
+    "reference": "RStudio::Conf. January 2019 in Austin, Tx",
+    "authors": "Jeremy Wildfire, Rebecca Krouse, et al.",
+    "links": [
+      {
+        "href": "https://github.com/RhoInc/RStudioConf2019-ePoster/blob/master/RstudioPoster_presented.pptx",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/RhoInc/RStudioConf2019-ePoster",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "The Safety Explorer Suite: Interactive Safety Monitoring for Clinical Trials.",
+    "thumbnail": "TIRS2018_Wildfire.png",
+    "reference": "Therapeutic Innovation & Regulatory Science. Published 2018",
+    "authors": "Jeremy Wildfire, Ryan Bailey, et al.",
+    "links": [
+      {
+        "href": "https://journals.sagepub.com/doi/abs/10.1177/2168479018754846",
+        "type": "paper"
+      },
+      {
+        "href": "https://github.com/RhoInc/safety-explorer-suite",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "Web Codebooks - Interactive Data Summaries for Clinical Trial Data",
+    "thumbnail": "PhUSE2018_Wildfire.png",
+    "reference": "PhUSE Connect. June 2018 in Raleigh NC",
+    "authors": "Jeremy Wildfire, Ryan Bailey, Spencer Childress, Rebecca Krouse",
+    "links": [
+      {
+        "href": "PhUSE2018_Wildfire.pdf",
+        "type": "paper"
+      },
+      {
+        "href": "PhUSE2018_Wildfire_Slides.pdf",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/RhoInc/web-codebook",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "Clinical Timelines Visualized",
+    "thumbnail": "PhUSE2018_Childress.png",
+    "reference": "PhUSE Connect. June 2018 in Raleigh NC",
+    "authors": "Spencer Childress, Jeremy Wildfire, Ryan Bailey, Britt Sikora",
+    "links": [
+      {
+        "href": "PhUSE2018_Childress.pdf",
+        "type": "paper"
+      },
+      {
+        "href": "PhUSE2018_Childress_slides.pdf",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/RhoInc/clinical-timelines",
+        "type": "github"
+      }
+    ]
+  },
+  {
     "title": "Graphic Depiction of Bioinformatics Data",
     "thumbnail": "JACI2017_Calatroni.png",
     "reference": "Journal of Allergy and Clinical Immunology. Published 2017",
