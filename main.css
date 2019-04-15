@@ -70,12 +70,13 @@ ul.pubs li.pub img{
 	float:left;
 	vertical-align:top;
 	padding:0.5em;
-	margin-right:1em;
+	margin-right:7px;
 
 }
 
 ul.pubs li.pub .pub-wrap{
-padding:0.5em;
+  padding:0.5em;
+  margin-left:140px;
 }
 
 ul.pubs li.pub .pub-wrap p{
@@ -89,6 +90,7 @@ ul.pubs li.pub .pub-wrap p.title{
 
 ul.pubs li.pub .pub-wrap ul.tags{
 	list-style: none;
+  padding:0;
 }
 
 ul.pubs li.pub .pub-wrap ul.tags li{
