@@ -1,0 +1,49 @@
+{
+  "name": "publication-library",
+  "version": "1.0.0",
+  "description": "Publications from Rho Graphics",
+  "module": "./js/index.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm audit fix && npm run bundle && npm run format",
+    "bundle": "rollup -c",
+    "format": "npm run format-js && npm run format-bundle",
+    "format-js": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./js/**/*.js\"",
+    "format-bundle": "prettier --print-width=100 --tab-width=4 --single-quote --write ./index.js",
+    "test-page": "start chrome ./index.html && start firefox ./index.html && start iexplore file://%CD%/index.html",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhoInc/publication-library.git"
+  },
+  "keywords": [
+    "graphics",
+    "publications",
+    "rho",
+    "data",
+    "visualization"
+  ],
+  "author": "Rho, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhoInc/publication-library/issues"
+  },
+  "homepage": "https://github.com/RhoInc/publication-library#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "base-64": "^0.1.0",
+    "node-fetch": "^2.3.0",
+    "prettier": "^1.16.4",
+    "promise-polyfill": "^8.1.0",
+    "read": "^1.0.7",
+    "rollup": "^1.10.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.2.3",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "dependencies": {
+    "d3": "^3.5.17"
+  }
+}
