@@ -1,5 +1,49 @@
 [
   {
+    "title": "Building Open Source Tools for Safety Monitoring: Advancing Research Through Community Collaboration",
+    "thumbnail": "RPharma2019_Krouse.png",
+    "reference": "R in Pharma. August 2019 in Boston, MA",
+    "authors": "Becca Krouse",
+    "links": [
+      {
+        "href": "RPharma2019_Krouse.pptx",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/safetygraphics/safetygraphics",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "Open-Source Tools for Monitoring Clinical Trial Safety: Taking it to the Next Level Towards Cross-Functional Collaboration",
+    "thumbnail": "JSM2019_Wildfire.png",
+    "reference": "Joint Statistical Meetings. July 2019 in Denver, CO",
+    "authors": "Jeremy Wildfire",
+    "links": [
+      {
+        "href": "JSM2019_Wildfire.pptx",
+        "type": "slides"
+      },
+      {
+        "href": "https://github.com/safetygraphics/safetygraphics",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "title": "Modernizing Clinical Research with Interactive Open Source Tools",
+    "thumbnail": "SAMSI2019_Krouse.png",
+    "reference": "SAMSI's PMED APPM Workshop. March 2019 in Raleigh, NC",
+    "authors": "Becca Krouse",
+    "links": [
+      {
+        "href": "SAMSI2019_Krouse.pptx",
+        "type": "slides"
+      }
+    ]
+  },
+  {
     "title": "Interactive Monitoring of Hepatotoxicity",
     "thumbnail": "RStudioConf2019_Wildfire.png",
     "reference": "PhUSE Connect. February 2019 in Baltimore, Md",
